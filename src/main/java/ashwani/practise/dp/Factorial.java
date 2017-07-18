@@ -3,7 +3,7 @@
 //* ---------------------------------------------------------   *
 //* NOTICE: 2017 All Rights Reserved . 	*
 //***************************************************************
-package ashwani.practise.test.dp;
+package ashwani.practise.dp;
 
 import java.util.Arrays;
 import java.util.Scanner;
