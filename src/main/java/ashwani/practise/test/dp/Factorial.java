@@ -51,7 +51,6 @@ public class Factorial {
 			}
 		}
 	}
-
 	private static long computeFact(int i) {
 		if(FACT_RESULT[i] != -1){
 			return FACT_RESULT[i];
