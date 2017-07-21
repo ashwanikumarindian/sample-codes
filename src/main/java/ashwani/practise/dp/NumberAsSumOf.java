@@ -58,7 +58,7 @@ public class NumberAsSumOf {
 				result.append(findNoOfWaysCanBeSummed(sc.nextInt(),nums)).append(System.lineSeparator());
 			}
 			
-			System.out.println("\n"+result.toString());
+			System.out.println(result.toString());
 			
 		}
 	}
